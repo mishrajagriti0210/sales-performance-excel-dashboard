@@ -33,9 +33,23 @@ The practice dataset contains 100 sales records with fields including Order ID, 
 3. Regional profit margins differ, so revenue alone does not provide a complete view of performance.
 4. Regional pricing, cost structure, and product mix are useful areas for further investigation. The available data does not establish the cause of these differences.
 
+## Dashboard Screenshots
+
+### Regional and category pivot analysis
+![Sales pivots for regional sales, product categories, and regional profit](screenshots/01-sales-pivot-regional-category.png)
+
+### Monthly sales and profit margin pivot analysis
+![Monthly sales, category performance, and profit margin by region](screenshots/02-sales-pivot-monthly-margin.png)
+
+### Sales dashboard overview
+![Sales dashboard with KPI cards and charts for regions, months, and categories](screenshots/03-sales-dashboard-kpis.png)
+
+### Dashboard profit analysis
+![Lower dashboard section showing regional profit and profit margins](screenshots/04-sales-dashboard-detail.png)
+
 ## Repository Contents
 - [Sales Performance Dashboard workbook](Sales_Performance_Dashboard.xlsx)
-- Dashboard screenshots (to be added)
+- Four dashboard and pivot-analysis screenshots in the `screenshots` folder
 
 ## How to Use
 Download the workbook from the link above and open it in Microsoft Excel. Explore the Dashboard, Sales_Data, Sales Cleaned, and Sales_Pivots worksheets to review the dashboard and supporting analysis.
