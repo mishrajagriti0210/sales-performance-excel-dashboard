@@ -34,11 +34,11 @@ The practice dataset contains 100 sales records with fields including Order ID, 
 4. Regional pricing, cost structure, and product mix are useful areas for further investigation. The available data does not establish the cause of these differences.
 
 ## Repository Contents
-- Excel dashboard workbook (to be added)
+- [Sales Performance Dashboard workbook](Sales_Performance_Dashboard.xlsx)
 - Dashboard screenshots (to be added)
 
 ## How to Use
-Download the workbook from this repository and open it in Microsoft Excel. Explore the dashboard and underlying sales data to review the performance metrics.
+Download the workbook from the link above and open it in Microsoft Excel. Explore the Dashboard, Sales_Data, Sales Cleaned, and Sales_Pivots worksheets to review the dashboard and supporting analysis.
 
 ## Author
 **Jagriti Mishra**  
